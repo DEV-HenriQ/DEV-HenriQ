@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DEV-HenriQ
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT
+- 👋 Olá, eu sou José!
+- 👀 Estou interessado em aprender programação front-end
+- 🌱 No momento estudo cursos de Programação Front-End e faço faculdade de ADS (Análise e Desenvolvimento de Sistemas)
 
-- [Snake animation](https://github.com/HenriQ/HenriQ/blob/output/github-contribution-grid-snake.svg)
+- No momento, é isso. Espero mudar essa página em breve! Até mais! 👋
 
 <!---
 DEV-HenriQ/DEV-HenriQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
