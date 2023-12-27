@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT
 
-- [Snake animation](https://github.com/DEV-HenriQ/DEV-HenriQ/blob/output/github-contribution-grid-snake.svg)
+- [Snake animation](https://github.com/HenriQ/HenriQ/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 DEV-HenriQ/DEV-HenriQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
