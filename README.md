@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou José!
+- 👋 Olá, eu sou José! Bem-Vindo(a) ao meu GitHub!
 - 👀 Estou interessado em aprender programação front-end
 - 🌱 No momento estudo cursos de Programação Front-End e faço faculdade de ADS (Análise e Desenvolvimento de Sistemas)
 
