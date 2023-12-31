@@ -3,7 +3,7 @@
 - 🌱 No momento estudo cursos de Programação Front-End e faço faculdade de ADS (Análise e Desenvolvimento de Sistemas)
 
 - No momento, é isso. Espero mudar essa página em breve! Até mais! 👋
-- Portifólio (futuro) - <a href="https://devjh.com.br" target="_BLANK">Portifólio</a>
+- Portifólio (futuro) - <a href="https://devjh.com.br" target="_blank">Portifólio</a>
 
 <!---
 DEV-HenriQ/DEV-HenriQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
