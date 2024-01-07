@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou José! Bem-Vindo(a) ao meu GitHub!
+- 👋 Olá, eu sou José! Seja Bem-Vindo(a) ao meu GitHub!
 - 👀 Estou interessado em aprender programação web.
 - 🌱 No momento estudo cursos de Programação WEB e faço faculdade de ADS (Análise e Desenvolvimento de Sistemas)
 
