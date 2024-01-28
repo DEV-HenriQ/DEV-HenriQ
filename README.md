@@ -1,4 +1,4 @@
-- 👋 Olá, me chamo José! Seja Bem-Vindo(a) ao meu GitHub!
+- 👋 Oi, me chamo José! Seja Bem-Vindo(a) ao meu GitHub!
 - 👀 Estou interessado em profissionalizar-me na programação web.
 - 🌱 Atualmente estudo cursos de Programação WEB focados em Javascript e faço faculdade de ADS (Análise e Desenvolvimento de Sistemas)
 - No momento, é só isso. Espero mudar essa página em breve! Até mais! 👋
