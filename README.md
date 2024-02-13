@@ -1,7 +1,7 @@
 - 👋 Meu nome é José! Seja Bem-Vindo(a) ao meu GitHub!
 - 👀 Estou me profissionalizando na programação web.
 - 🌱 Atualmente estudo cursos de Programação WEB focados em Javascript e faço faculdade de ADS (Análise e Desenvolvimento de Sistemas)
-- 🎮 Gosto de jogos fps e 2d
+- 🎮 Gosto de jogos fps, 2d e mmorpg
 - No momento, é só isso. Espero mudar essa página em breve! Até mais! 👋
 - Portifólio (futuro) - <a href="https://devjh.com.br" target="_blank">www.devjh.com.br</a>
 
