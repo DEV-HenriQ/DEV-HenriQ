@@ -1,4 +1,4 @@
-- 👋 Meu nome é José! Seja Bem-Vindo(a) ao meu GitHub!
+- 👋 Prazer, meu nome é José! Seja Bem-Vindo(a) ao meu GitHub!
 - 👀 Estou me profissionalizando na programação web.
 - 🌱 Atualmente estudo cursos de Programação WEB focados em Javascript e faço faculdade de ADS (Análise e Desenvolvimento de Sistemas)
 - 🎮 Gosto de jogos FPS, 2D e MMORPG.
