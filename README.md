@@ -3,7 +3,7 @@
 - 🌱 Atualmente estudo cursos de Programação WEB focados em Javascript e estou cursando faculdade de ADS (Análise e Desenvolvimento de Sistemas) na Unicesumar.
 - 🎮 Gosto de jogos FPS, 2D e MMORPG.
 - No momento, é só isso. Espero mudar essa página em breve! Até mais! 👋
-- Portifólio (futuro) - <a href="https://devjh.com.br" target="_blank">www.devjh.com.br</a>
+- Portifólio (futuro) - <a href="https://devjh.com.br" target="_blank">https://www.devjh.com.br</a>
 
 <!---
 DEV-HenriQ/DEV-HenriQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
