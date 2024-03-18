@@ -4,7 +4,7 @@
 - 🤖 Comecei a estudar programação para Arduino em fevereiro de 2024.
 - 🎮 Gosto de jogos FPS, 2D, MMORPG e LUTA.
 - No momento, é só isso. Espero mudar essa página em breve! Até mais! 👋
-- Portifólio (futuro) - <a href="https://devjh.com.br" target="_blank">devjh.com.br</a>
+- Portifólio (futuro) - <a href="https://devjh.com.br" target="_blank">www.devjh.com.br</a>
 
 <!---
 DEV-HenriQ/DEV-HenriQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
