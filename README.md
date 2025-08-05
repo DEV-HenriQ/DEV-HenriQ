@@ -3,7 +3,7 @@
 - 🌱 Estudo cursos de Programação WEB focados em Javascript e estou cursando faculdade de ADS (Análise e Desenvolvimento de Sistemas) na Unicesumar.
 - 🤖 Comecei a estudar programação para Arduino em fevereiro de 2024.
 - No momento, é só isso. Espero mudar essa página em breve! Até mais! 👋
-- Portifólio - <a href="https://portfolio-jose-henrique.netlify.app/" target="_blank">devjh.com.br</a>
+- Portifólio - <a href="https://portfolio-jose-henrique.netlify.app/" target="_blank">clique aqui</a>
 
 <!---
 DEV-HenriQ/DEV-HenriQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
